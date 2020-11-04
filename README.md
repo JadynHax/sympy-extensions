@@ -18,8 +18,9 @@ We feel this is a compact enough name for usage in the rest of your code, althou
 import sympy_extensions as extensions
 # Alternative 2
 import sympy_extensions as sympy_ext
-# 
+# Alternative 3 for those of you who just REALLY love to type long things with underscores
+import sympy_extensions
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMTc1MjUxLC0xNjQ0NzYwMDI5XX0=
+eyJoaXN0b3J5IjpbNjM1ODQ0NjIzLC0xNjQ0NzYwMDI5XX0=
 -->
