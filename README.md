@@ -7,6 +7,8 @@ SymPy Extensions can be installed quite easily using `pip` like so:
 pip install sympy-extensions
 ```
 
+## Usage
+To use SymPy Extensions within Python code, you must first import the module. T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNDQyNTU4XX0=
+eyJoaXN0b3J5IjpbLTEwNzA5NTg0NDFdfQ==
 -->
