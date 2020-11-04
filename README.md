@@ -10,9 +10,12 @@ pip install sympy-extensions
 ## Usage
 To use SymPy Extensions within Python code, you must first import the module. For ease of use, we suggest using an `import` statement somewhat like this:
 ```py
-import sympy_extensions as sympyext
+import sympy_extensions as sympext
 ```
-We feel this 
+We feel this is a compact enough name for usage in the rest of your code, although we've come up with a few alternatives for you, should you prefer them:
+```py
+#
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ3NjAwMjldfQ==
+eyJoaXN0b3J5IjpbNTQyODY2OTg4LC0xNjQ0NzYwMDI5XX0=
 -->
