@@ -14,8 +14,12 @@ import sympy_extensions as sympext
 ```
 We feel this is a compact enough name for usage in the rest of your code, although we've come up with a few alternatives for you, should you prefer them:
 ```py
-#
+# Alternative 1
+import sympy_extensions as extensions
+# Alternative 2
+import sympy_extensions as sympy_ext
+# 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyODY2OTg4LC0xNjQ0NzYwMDI5XX0=
+eyJoaXN0b3J5IjpbOTkxMTc1MjUxLC0xNjQ0NzYwMDI5XX0=
 -->
