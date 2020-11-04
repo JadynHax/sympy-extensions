@@ -24,8 +24,7 @@ import sympy_extensions as sympy_ext
 # Alternative 3 for those who REALLY love to type long names with underscores
 import sympy_extensions
 ```
-
-### Module Documentation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzg4MjE2MSwtMTY0NDc2MDAyOV19
+eyJoaXN0b3J5IjpbLTU5OTUyMDA3MiwxNTMzODgyMTYxLC0xNj
+Q0NzYwMDI5XX0=
 -->
